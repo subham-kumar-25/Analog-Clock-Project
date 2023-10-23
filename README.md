@@ -12,7 +12,7 @@ This project is a simple implementation of an analog clock using HTML, CSS, and 
 
 ## Screenshots
 
-[Analog Clock](https://ibb.co/8cGg1ZY)
+<a href="https://ibb.co/8cGg1ZY"><img src="https://i.ibb.co/X86xcRY/Analog-Clock.png" alt="Analog-Clock" border="0"></a>
 
 ## Getting Started
 
