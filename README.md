@@ -1,5 +1,7 @@
 # Analog Clock Project
 
+Web Page : https://subham-kumar-25.github.io/Analog-Clock-Project/
+
 ## Overview
 
 This project is a simple implementation of an analog clock using HTML, CSS, and JavaScript. It provides a visually appealing representation of the current time, with hour, minute, and second hands.
@@ -25,6 +27,6 @@ This project is a simple implementation of an analog clock using HTML, CSS, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/analog-clock.git
+   git clone https://github.com/subham-kumar-25/analog-clock.git
 
 2. Open index.html in your preferred web browser.
